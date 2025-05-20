@@ -1,17 +1,3 @@
-<!--
-**marzigl/marzigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Olá! Me chamo Márzio Glauco 👨‍💻</h1>
 
 <p align="center">
@@ -38,10 +24,42 @@ Trago uma abordagem orientada à performance, segurança e escalabilidade — se
 
 ---
 
-### Tecnologias que uso ⚒️
+### 🚀 Linguagens
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,python,vue,nuxt,angular,react,reactnative,docker,kubernetes,git,github,aws,gcp,terraform,linux,bash,vscode,bugsnag,swagger&perline=9" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,bash&perline=9" />
+</div>
+
+---
+
+### ⚙️ Frameworks & Bibliotecas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,nuxt,react,nextjs,angular,tailwind,spring&perline=9" />
+</div>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform&perline=9" />
+</div>
+
+---
+
+### 🛠️ Ferramentas & Plataformas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,heroku,grafana,notion&perline=9" />
+</div>
+
+---
+
+### 🧰 Sistemas & Extras
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,windows,raspberrypi,arduino,figma,idea,vim&perline=9" />
 </div>
 
 ---
@@ -49,8 +67,8 @@ Trago uma abordagem orientada à performance, segurança e escalabilidade — se
 ### Metodologias e Práticas 🛠️
 
 - Clean Code, Clean Architecture, TDD, Agile (Scrum)  
-- Integração Contínua, Entrega Contínua, DevOps
-- Microserviços, Serverless, APIs RESTful e GraphQL
+- Integração Contínua, Entrega Contínua, DevOps  
+- Microserviços, Serverless, APIs RESTful e GraphQL  
 - Design Patterns, SOLID, DDD, CQRS, Event Sourcing
 
 ---
@@ -63,7 +81,7 @@ Trago uma abordagem orientada à performance, segurança e escalabilidade — se
 
 ---
 
-### GitHub Stats 📚
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marziogsaj&show_icons=true&theme=tokyonight&count_private=true" />
@@ -72,8 +90,8 @@ Trago uma abordagem orientada à performance, segurança e escalabilidade — se
 
 ---
 
-### Em busca de... 🚀
+### Em busca de... 🌍
 
-Oportunidades que envolvam **desenvolvimento backend**, **integrações complexas**, **infraestrutura moderna** e **times que valorizem boas práticas de engenharia**.
+Oportunidades que envolvam **desenvolvimento backend ou frontend**, **integrações complexas**, **infraestrutura moderna** e **times que valorizem boas práticas de engenharia**.
 
-Vamos conversar?
+📩 Vamos conversar!
